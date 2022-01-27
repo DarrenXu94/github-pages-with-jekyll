@@ -1,3 +1,8 @@
+---
+title: "Using the Notion API to import Bookmarks"
+date: 2022-01-28
+---
+
 Recently I decided to create a developer profile on Chrome so I could clean up my bookmarks and split up what browser I used for each activity. This was not effective. I still ended up using my main profile to browser tech related things and found switching between the two too tedious. I was going to add all my tech bookmarks back, but I decided to store them in Notion instead as a better reference as I don't use them all the time.
 
 ### Export
