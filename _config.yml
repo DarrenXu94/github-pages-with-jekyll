@@ -8,5 +8,5 @@ github_username:  DarrenXu94
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: architect
-url: blog.darrenxu.com
+url: https://blog.darrenxu.com
 baseurl: /github-pages-with-jekyll
