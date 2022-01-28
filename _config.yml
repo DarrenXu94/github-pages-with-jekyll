@@ -8,5 +8,4 @@ github_username:  DarrenXu94
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
-url: https://blog.darrenxu.com
-baseurl: /github-pages-with-jekyll
+url: blog.darrenxu.com
