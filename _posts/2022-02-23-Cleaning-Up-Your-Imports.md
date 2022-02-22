@@ -1,3 +1,8 @@
+---
+title: "Cleaning up your imports for an SPFX project"
+date: 2022-02-23
+---
+
 Do you have code that looks like this?
 
     import Button from "../../../common/Button/Button";
